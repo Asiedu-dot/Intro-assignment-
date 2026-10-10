@@ -1,7 +1,7 @@
 // intro.js
 // Logs my name, age, and favorite programming language to the console.
 
-const name = "Your Name";
+const name = "Asiedu Collins";
 const age = 20;
 const favoriteLanguage = "JavaScript";
 
